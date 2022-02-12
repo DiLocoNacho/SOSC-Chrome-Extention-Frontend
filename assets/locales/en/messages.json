@@ -1,0 +1,11 @@
+{
+    "appName": {
+        "message": "SOSCO-Chrome-Extention"
+    },
+    "appShortName": {
+        "message": "SOSCO-Chrome-Extention"
+    },
+    "appDescription": {
+        "message": "Easily share websites in the SOSC Discord"
+    }
+}
